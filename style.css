@@ -72,7 +72,7 @@ button:hover { background-color: #1557b0; }
     width: 50%; */
     max-width: 200px; /* Ajuste o tamanho conforme necessário */
     height: auto;
-    margin-bottom: 40px; /* Espaço entre a imagem e o sorteador */
+    margin-bottom: 20px; /* Espaço entre a imagem e o sorteador */
     border-radius: 8px;  /* Opcional: arredonda os cantos da imagem */
 }
 
