@@ -1,5 +1,9 @@
-# 🎯 Sorteador Online de Intervalos Múltiplos
+<p align="center">
+  <img src="JoTech.png" alt="Logo do Sorteador" width="200">
+</p>
 
+
+# 🎯 Sorteador Online de Intervalos Múltiplos
 ![Status](https://img.shields.io/badge/Status-Conclu%C3%ADdo-brightgreen)
 ![Linguagens](https://img.shields.io/badge/Tech-HTML5%20|%20CSS3%20|%20JS-blue)
 
