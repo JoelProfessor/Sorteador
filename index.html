@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Sorteador de Intervalos</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+    <div class="container-logo">
+        <img src="JoTech.png" class="logo" alt="Logo Jotech">
+        <div class="container">
+            <h1>Sorteador Online</h1>
+            <p>Insira os intervalos separados por vírgula (ex: 0-120, 145-500)</p>
+
+            <input type="text" id="intervalsInput" placeholder="Ex: 1-10, 20-30, 50-100">
+
+            <button onclick="drawNumber()">Sortear Número</button>
+
+            <div id="resultContainer" class="hidden">
+                <h2>Resultado:</h2>
+                <div id="randomNumber">-</div>
+            </div>
+        </div>
+    </div>
+    <script src="script.js"></script>
+</body>
+
+</html>
